@@ -465,7 +465,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c56e3f8ad74faf4c9973ba7252ee5e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _player: {fileID: 1649265628}
+  _playerTransform: {fileID: 1649265628}
   _tilePrefabs:
   - {fileID: 3726854924560080944, guid: 360ae1cda8454584ab8ef77098b6c3a7, type: 3}
 --- !u!114 &2130143639
